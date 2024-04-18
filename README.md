@@ -7,6 +7,7 @@
 - [Week 2 Day 2: Merging in Git with Conflicts](notes/w2d2.md)
 - [Week 2 Day 3: Backend Development and REST APIs with Express](notes/w2d3.md)
 - [Week 3 Day 1: MVC Architecture, REST on the Frontend and Promises](notes/w3d1.md)
+- [Week 3 Day 2: Software Architecture and Design, Modeling and UML](notes/w3d2.md)
 
 ## App Repo Link
 
