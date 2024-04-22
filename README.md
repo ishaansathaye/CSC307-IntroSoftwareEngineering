@@ -9,6 +9,7 @@
 - [Week 3 Day 1: MVC Architecture, REST on the Frontend and Promises](notes/w3d1.md)
 - [Week 3 Day 2: Software Architecture and Design, Modeling and UML](notes/w3d2.md)
 - [Week 3 Day 3: SQL vs NoSQL](notes/w3d3.md)
+- [Week 4 Day 1: MongoDB and Mongoose](notes/w4d1.md)
 
 ## App Repo Link
 
