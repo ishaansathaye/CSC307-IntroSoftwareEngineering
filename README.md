@@ -11,6 +11,7 @@
 - [Week 3 Day 3: SQL vs NoSQL](notes/w3d3.md)
 - [Week 4 Day 1: MongoDB and Mongoose](notes/w4d1.md)
 - [Week 4 Day 2: Software Development Lifecycle (SDLC)](notes/w4d2.md)
+- [Week 4 Day 3: Requirements and User Stories](notes/w4d3.md)
 
 ## App Repo Link
 
