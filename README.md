@@ -14,6 +14,10 @@
 - [Week 4 Day 3: Requirements and User Stories](notes/w4d3.md)
 - [Week 5 Day 1: Agile Software Development and Scrum and Sprint #1 Kickoff](notes/w5d1.md)
 
-## App Repo Link
+## Individual App Repo Link
 
 - [307 App Repo](https://github.com/ishaansathaye/css-307-app)
+
+## Team App Repo Link: Taskify
+
+- [Taskify App Repo](https://github.com/kct417/csc-307-todo-list-app)
