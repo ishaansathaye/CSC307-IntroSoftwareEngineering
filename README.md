@@ -12,6 +12,7 @@
 - [Week 4 Day 1: MongoDB and Mongoose](notes/w4d1.md)
 - [Week 4 Day 2: Software Development Lifecycle (SDLC)](notes/w4d2.md)
 - [Week 4 Day 3: Requirements and User Stories](notes/w4d3.md)
+- [Week 5 Day 1: Agile Software Development and Scrum and Sprint #1 Kickoff](notes/w5d1.md)
 
 ## App Repo Link
 
