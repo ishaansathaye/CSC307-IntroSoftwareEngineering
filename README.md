@@ -14,6 +14,7 @@
 - [Week 4 Day 3: Requirements and User Stories](notes/w4d3.md)
 - [Week 5 Day 1: Agile Software Development and Scrum and Sprint #1 Kickoff](notes/w5d1.md)
 - [Week 5 Day 2: Single-Page Apps and Client-Side Routing](notes/w5d2.md)
+- [Week 5 Day 3: UI Design and Prototyping](notes/w5d3.md)
 
 ## Individual App Repo Link
 
