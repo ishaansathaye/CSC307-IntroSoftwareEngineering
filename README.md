@@ -16,6 +16,7 @@
 - [Week 5 Day 2: Single-Page Apps and Client-Side Routing](notes/w5d2.md)
 - [Week 5 Day 3: UI Design and Prototyping](notes/w5d3.md)
 - [Week 6 Day 1: Authentication and Access Control](notes/w6d1.md)
+- [Week 6 Day 2: Coding as a Team: Code Style and Standards](notes/w6d2.md)
 
 ## Individual App Repo Link
 
