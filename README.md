@@ -25,4 +25,4 @@
 
 ## Team App Repo Link: Taskify
 
-- [Taskify App Repo](https://github.com/kct417/csc-307-todo-list-app)
+- [Taskify App Repo](https://github.com/kct417/taskify)
